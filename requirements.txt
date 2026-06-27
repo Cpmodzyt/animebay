@@ -1,4 +1,0 @@
-pyrogram
-aiohttp
-pytz
-python-dotenv
